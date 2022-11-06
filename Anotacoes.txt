@@ -1,0 +1,11 @@
+
+Passo a Passo Resumido de Como Criar um Repositorio  no GitHub:
+
+-Va no seu Github(se nao houve conta crie)
+-Click em Criar Repositorio
+-Escreva o  Nome do Seu Repositorio
+-Clique em Readme
+-Escreva As Informacoes do seu Projeto
+-Escolha se vai deixar Publico ou Nao
+- Aperte o enter
+-Seu repositorio esta criado
